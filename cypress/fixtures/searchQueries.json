@@ -1,0 +1,10 @@
+{
+  "valid": "friends",
+  "caseUpper": "FRIENDS",
+  "caseMixed": "FRiENdS",
+  "fuzzy": "freinds",
+  "specialChars": "law & order",
+  "numeric": "24",
+  "generic": "the",
+  "noResults": "zzzzzzzz"
+}

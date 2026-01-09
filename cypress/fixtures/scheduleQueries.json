@@ -1,0 +1,39 @@
+{
+  "default": {},
+
+  "validUSDate": {
+    "country": "country=US",
+    "date": "date=2014-12-01"
+  },
+
+  "validGBDate": {
+    "country": "country=GB",
+    "date": "date=2015-01-01"
+  },
+
+  "invalidCountry": {
+    "country": "country=UK",
+    "date": "date=2015-01-01"
+  },
+
+  "invalidDateFormat": {
+    "country": "country=US",
+    "date": "date=01-01-2015"
+  },
+
+  "futureDate": {
+    "country": "country=US",
+    "date": "date=2100-01-01"
+  },
+
+  "missingCountry":{
+        "country": "",
+        "date": "date=2014-12-01"
+    },
+
+  "missingDate":{
+        "country": "country=US",
+        "date": ""
+  }
+
+}

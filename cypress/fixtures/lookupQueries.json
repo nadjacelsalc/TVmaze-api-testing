@@ -1,0 +1,10 @@
+{"validTheTVDB": "thetvdb=79168",
+"validIMDB": "imdb=tt0108778",
+"nonExistingTheTVDB": "thetvdb=999999999",
+"nonExistingIMDB": "imdb=tt0000000",
+"emptyTheTVDB": "thetvdb=",
+"emptyIMDB": "imdb=",
+"invalidIMDBFormat": "0944947",
+"invalidTheTVDBFormat": "abc123",
+"unsupportedParam": "tvdb=81189",
+"multipleParams": "thetvdb=81189&imdb=tt0944947"}
