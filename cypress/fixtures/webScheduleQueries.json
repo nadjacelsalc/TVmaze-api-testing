@@ -1,0 +1,42 @@
+{
+  "default": {},
+
+  "validDateOnly": {
+    "date": "date=2020-05-29"
+  },
+
+  "globalOnly": {
+    "date": "date=2020-05-29",
+    "country": "country="
+  },
+
+  "localUSOnly": {
+    "date": "date=2020-05-29",
+    "country": "country=US"
+  },
+
+  "localGBOnly": {
+    "date": "date=2020-05-29",
+    "country": "country=GB"
+  },
+
+  "invalidCountry": {
+    "date": "date=2020-05-29",
+    "country": "country=UK"
+  },
+
+  "invalidDateFormat": {
+    "date": "date=29-05-2020",
+    "country": "country=US"
+  },
+
+  "futureDate": {
+    "date": "date=2100-01-01",
+    "country": "country=US"
+  },
+
+  "missingDate": {
+    "date": "",
+    "country": "country=US"
+  }
+}
